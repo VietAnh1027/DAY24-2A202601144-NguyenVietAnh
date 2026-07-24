@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Chấm điểm tự động — K4 Ngày 1: Khám Phá LLM API
 
